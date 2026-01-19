@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Lab1.c
+C:\Users\matth\OneDrive\Desktop\EET 2025\PROG1\Lab1\Lab1.c(69,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\PROG1\Lab1\Lab1.c(71,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab1.vcxproj -> C:\Users\matth\OneDrive\Desktop\EET 2025\PROG1\Lab1\x64\Debug\Lab1.exe

@@ -1,0 +1,8 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Lab8.c
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Lab8\Lab8.c(61,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Lab8\Lab8.c(65,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Lab8\Lab8.c(70,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Lab8\Lab8.c(75,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Lab8\Lab8.c(90,1): warning C4716: 'placeOrder': must return a value
+  Lab8.vcxproj -> C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Lab8\x64\Debug\Lab8.exe

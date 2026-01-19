@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Assignment.c
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Assignment\Assignment.c(65,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Assignment\Assignment.c(41,1): warning C4716: 'printBinary': must return a value
+  Assignment.vcxproj -> C:\Users\matth\OneDrive\Desktop\EET 2025\Semester 1\C Programming\Assignment\x64\Debug\Assignment.exe

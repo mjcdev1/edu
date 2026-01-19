@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Lab2.c
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\Lab2.c(22,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\Lab2.c(24,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\Lab2.c(26,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\Lab2.c(28,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\Lab2.c(68,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\Lab2.c(75,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab2.vcxproj -> C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab2\x64\Debug\Lab2.exe

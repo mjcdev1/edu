@@ -1,0 +1,10 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Lab4.c
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(77,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(79,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(81,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(83,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(113,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(116,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\Lab4.c(12,1): warning C4716: 'insertLineSpace': must return a value
+  Lab4.vcxproj -> C:\Users\matth\OneDrive\Desktop\EET 2025\C Programming\Lab4\Lab4\x64\Debug\Lab4.exe
